@@ -1,0 +1,18 @@
+{
+  "name": "fake-json-server",
+  "version": "1.0.0",
+  "description": "A fake json server that serves json files as it comes from db",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "Thusara Senanayake",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
